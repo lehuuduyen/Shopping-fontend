@@ -1,0 +1,24 @@
+body {
+    background-image: url("../images/bg/tileable_wood_texture.png") !important;
+}
+
+.twelve.columns {
+    width: 98%;
+    margin-bottom: 15px;
+}
+
+#logo {
+    margin-top: 13px;
+}
+
+#additional-menu {
+    margin-top: 27px;
+}
+
+.custom_fix_menu {
+    position: fixed;
+    top: 0px;
+    margin: 0px;
+    left: 0px;
+    z-index: 101;
+}
