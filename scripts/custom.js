@@ -77,7 +77,8 @@
         });
         $('#new-arrivals').showbizpro({
             dragAndScroll: "off",
-            visibleElementsArray: [4, 4, 3, 1],
+            visibleElementsArray: [4, 4, 3, 2],
+            // visibleElementsArray: [1, 1, 1, 1],
             carousel: "off",
             entrySizeOffset: 0,
             allEntryAtOnce: "off",

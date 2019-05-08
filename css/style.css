@@ -1586,7 +1586,7 @@ span.skill-title i {
     display: block;
     margin: 0 0 0 15px;
     position: relative;
-    z-index: 100
+    z-index: 9
 }
 
 #cart a {
@@ -2426,7 +2426,7 @@ li.dropdown ul li a:hover {
 }
 
 #jPanelMenu-menu {
-    display: none
+    /*display: none*/
 }
 
 @media only screen and (max-width: 767px) {
@@ -5093,7 +5093,7 @@ a.img-caption {
 }
 
 .showbiz {
-    margin: 0 0 45px
+    margin: 0 0 24px
 }
 
 .showbiz ul, .showbiz li {
